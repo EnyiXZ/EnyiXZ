@@ -52,7 +52,7 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![600x400_viajes-lujo-FOTO-1-White-Dessert-experiencia-Polo-Norte-en-jet-privaso](https://github.com/user-attachments/assets/607acd0a-297b-461f-bf05-3b98d1b5aea4)
+https://github.com/user-attachments/assets/607acd0a-297b-461f-bf05-3b98d1b5aea4
 
 <!---
 EnyiXZ/EnyiXZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

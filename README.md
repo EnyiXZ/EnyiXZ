@@ -3,6 +3,7 @@
 
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<br>
 Soy un Diseñador de Aplicaciones Multimedia con experiencia
 en el desarrollo de interfaces interactivas, Apasionado por la
 creatividad y la tecnología, poseo sólidos conocimientos en

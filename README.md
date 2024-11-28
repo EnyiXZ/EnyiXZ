@@ -3,6 +3,14 @@
 
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+Soy un Diseñador de Aplicaciones Multimedia con experiencia
+en el desarrollo de interfaces interactivas, Apasionado por la
+creatividad y la tecnología, poseo sólidos conocimientos en
+programación y diseño UX/UI, con habilidad para trabajar en
+proyectos desde la conceptualización hasta la implementación
+final. Mi objetivo es contribuir con soluciones visuales
+innovadoras y funcionales en el ámbito digital.
+
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

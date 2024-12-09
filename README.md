@@ -71,7 +71,7 @@
 
 ### 🌐 Contacto
 
-- **Email**: [tu-email@ejemplo.com](mailto:enyixuzhang2005@gmail.com)
+- **Email**: [Enyixuzhang2005@gmail.com](mailto:enyixuzhang2005@gmail.com)
 - **GitHub**: [EnyiXZ](https://github.com/EnyiXZ)
 
 Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en ponerte en contacto conmigo!

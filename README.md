@@ -16,23 +16,6 @@
 - **Colaboración**: Trabajo eficaz en equipos multidisciplinarios, desde la fase de ideación hasta la entrega final del proyecto.
 - **Resolución de Problemas**: Habilidad para identificar y resolver problemas técnicos y de diseño de manera eficiente.
 
-### 🚀 Proyectos Destacados
-
-1. **Aplicación de Video Bajo Demanda (VBD)**:
-   - Desarrollo de una plataforma que permite a los usuarios ver películas, documentales y series.
-   - Implementación de un panel de administración para la gestión de contenidos.
-   - Integración con una base de datos MySQL para el almacenamiento de datos.
-
-2. **Sistema de Gestión de Inventario**:
-   - Creación de una aplicación web para gestionar inventarios en tiempo real.
-   - Uso de PHP y MySQL para el backend, y JavaScript para la interactividad en el frontend.
-   - Diseño de una interfaz amigable para el usuario final.
-
-3. **Portfolio Digital**:
-   - Diseño y desarrollo de un portafolio digital interactivo para mostrar proyectos y habilidades.
-   - Implementación de animaciones y transiciones suaves utilizando CSS y JavaScript.
-   - Optimización del rendimiento y la accesibilidad para una mejor experiencia de usuario.
-
 ### 🛠️ Tecnologías y Herramientas
 
 #### Lenguajes

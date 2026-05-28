@@ -3,15 +3,6 @@
 <h1 align="center">Enyi Xu Zhang</h1>
 <h3 align="center">Data Scientist · ML Engineer · AI Developer</h3>
 
-<p align="center">
-  <a href="mailto:enyixuzhang2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f2744?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/EnyiXZ">
-    <img src="https://img.shields.io/badge/GitHub-0f2744?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ## 👋 Sobre mí

@@ -1,71 +1,121 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-<br>
+<h1 align="center">Enyi Xu Zhang</h1>
+<h3 align="center">Data Scientist · ML Engineer · AI Developer</h3>
 
-## Sobre Mí
+<p align="center">
+  <a href="mailto:enyixuzhang2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f2744?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/EnyiXZ">
+    <img src="https://img.shields.io/badge/GitHub-0f2744?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-¡Hola! Soy un Diseñador de Aplicaciones Multimedia con una pasión por la creatividad y la tecnología. Mi experiencia abarca desde el desarrollo de interfaces interactivas hasta la programación y el diseño UX/UI. A lo largo de mi carrera, he trabajado en proyectos que van desde la conceptualización hasta la implementación final, siempre buscando crear soluciones visuales innovadoras y funcionales en el ámbito digital.
+---
 
-### 🎨 Habilidades Principales
+## 👋 Sobre mí
 
-- **Creatividad**: Desarrollo de soluciones visuales atractivas e innovadoras que capturan la atención del usuario.
-- **Experiencia de Usuario (UX)**: Diseño de interfaces centradas en el usuario, mejorando la usabilidad y satisfacción en cada interacción.
-- **Programación**: Desarrollo de aplicaciones interactivas utilizando una variedad de tecnologías y lenguajes de programación.
-- **Colaboración**: Trabajo eficaz en equipos multidisciplinarios, desde la fase de ideación hasta la entrega final del proyecto.
-- **Resolución de Problemas**: Habilidad para identificar y resolver problemas técnicos y de diseño de manera eficiente.
+Desarrollador de IA aplicada con base sólida en **machine learning**, **deep learning** y **sistemas LLM**. Me especializo en construir aplicaciones de IA funcionales: desde modelos entrenados sobre datos reales hasta sistemas RAG, agentes conversacionales y automatización con LLMs. Todo lo que construyo lo llevo a producción.
 
-### 🛠️ Tecnologías y Herramientas
+- 🎓 Máster en Big Data e Inteligencia Artificial — Digitech Madrid (2025–2026)
+- 🤖 Apasionado por LLMs locales, visión por computador y robótica
+- 🌍 Madrid, España · Español nativo · Chino conversacional · Inglés técnico
 
-#### Lenguajes
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+---
+
+## 🛠️ Stack técnico
+
+#### ML / Deep Learning
+<span>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 </span>
 
-#### Bases de Datos
+#### LLMs & RAG
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-0f2744?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
 </span>
 
-#### Entornos de Desarrollo (IDE)
+#### Infraestructura & Dev
 <span>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
-
-#### Sistemas Operativos
-<span>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
 </span>
 
-### 📊 GitHub Stats:
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnyiXZ&layout=compact&theme=gotham&langs_count=8"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=EnyiXZ&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+---
+
+## 🚀 Proyectos destacados
+
+### 🤖 Robot NAO Conversacional con IA
+> Python · ROS2 · Webots · YOLOv8 · Faster-Whisper · Qwen 2.5 · ChromaDB · Piper TTS · Ollama
+
+Robot humanoide NAO simulado en Webots con capacidades conversacionales completas en español. El sistema integra reconocimiento de voz, visión por computador en tiempo real, síntesis de voz y memoria conversacional vectorial persistente entre sesiones. Arquitectura modular de 10 módulos con clasificador de intención de tres niveles. **100% local, sin dependencias externas.**
+
+---
+
+### 📄 RecruitAI
+> Python · Streamlit · Gemini API · PDF parsing
+
+Aplicación que analiza CVs en PDF con Google Gemini. Extrae información clave, puntúa candidatos y genera informes automáticos.
+
+---
+
+### 🔍 Sistema RAG — TechShop
+> Python · ChromaDB · nomic-embed · phi3 · LangChain
+
+Asistente de atención al cliente con arquitectura RAG completa. Indexación de documentos, búsqueda semántica vectorial y generación de respuestas basada en contexto recuperado.
+
+---
+
+### 🏥 Detección de cáncer de piel
+> Python · TensorFlow · CNN · ISIC 2016 Dataset · Kaggle GPU
+
+Modelo CNN entrenado sobre dataset médico real (ISIC 2016) con desbalance de clases 80/20. Regularización, data augmentation y análisis de métricas por subgrupo demográfico.
+
+---
+
+### 💬 Análisis de sentimiento — LSTM
+> Python · TensorFlow · BiLSTM · IMDb Dataset
+
+Red LSTM bidireccional para análisis de sentimiento. Preprocesamiento de texto, embeddings entrenados y evaluación sobre dataset benchmark estándar.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnyiXZ&layout=compact&theme=gotham&langs_count=8"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EnyiXZ&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
 
-### 🌐 Contacto
+---
 
-- **Email**: [Enyixuzhang2005@gmail.com](mailto:enyixuzhang2005@gmail.com)
-- **GitHub**: [EnyiXZ](https://github.com/EnyiXZ)
+## 🏅 Certificaciones
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en ponerte en contacto conmigo!
+**AWS — Amazon Bedrock & SageMaker**
+- Build and Understand Code with Amazon Q
+- Secure Conversational AI with Guardrails
+- Responsible Gen AI with GuardRails for Bedrock
+- Build and Evaluate RAG Applications with Bedrock
+- Get Started with Generative AI (SageMaker)
+- Generate Code for a Webpage (Bedrock)
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+**Redes & Hardware**
+- CCNA R&S: Introduction to Networks
+- CCNA R&S: Routing and Switching Essentials
 
-<!-- RAINBOW LINE BOT -->
+---
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!---
-EnyiXZ/EnyiXZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

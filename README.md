@@ -88,7 +88,6 @@ Red LSTM bidireccional para análisis de sentimiento. Preprocesamiento de texto,
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnyiXZ&layout=compact&theme=gotham&langs_count=8"/>
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EnyiXZ&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
 
 ---

@@ -58,7 +58,7 @@ Robot humanoide NAO simulado en Webots con capacidades conversacionales completa
 ### 📄 RecruitAI
 > Python · Streamlit · Gemini API · PDF parsing
 
-Aplicación que analiza CVs en PDF con Google Gemini. Extrae información clave, puntúa candidatos y genera informes automáticos.
+Aplicación que analiza CVs en PDF con Claude. Extrae información clave, puntúa candidatos y genera informes automáticos.
 
 ---
 

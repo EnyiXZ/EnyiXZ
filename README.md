@@ -56,7 +56,7 @@ Robot humanoide NAO simulado en Webots con capacidades conversacionales completa
 ---
 
 ### 📄 RecruitAI
-> Python · Streamlit · Gemini API · PDF parsing
+> Python · Streamlit · Claude API · PDF parsing
 
 Aplicación que analiza CVs en PDF con Claude. Extrae información clave, puntúa candidatos y genera informes automáticos.
 
